@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
     background-color: aquamarine;
     margin: 0;
@@ -6,3 +7,9 @@ body {
     background-color: blueviolet;
     height: 200px;
 }
+=======
+.footer {
+    background-color: brown;
+    height: 200px;
+}
+>>>>>>> rama1
